@@ -64,9 +64,7 @@ http://localhost:4200
 
 ## Link do vídeo demonstrativo
 
-ATENCAO 
-
-AQUI SERA O VIDEO
+https://drive.google.com/drive/folders/1DalBxnRkcf2rr-yPfMVgokcCovOACFPC?usp=sharing
 
 ## Funcionalidades
 
